@@ -1,0 +1,5 @@
+# Dependencias y archivos del sistema
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
